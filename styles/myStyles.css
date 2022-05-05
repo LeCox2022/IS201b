@@ -1,0 +1,115 @@
+.backgroundimage2 {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/Images/bees-logo-background-edit.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;  
+}
+
+.site-heading2 {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  line-height: 1;
+  font-family: 'mohave', sans-serif, arial;
+}
+    
+.site-heading2 .site-heading-upper2 {
+  display: block; 
+  font-size: 2rem;
+  font-weight: 100;
+  
+}
+.site-heading2 .site-heading-lower2 {
+  font-size: 5rem;
+  font-weight: 100;
+  line-height: 4rem;
+  color: #d4c936
+}
+
+
+.sitefont2 {
+    font-family: 'Truculenta', sans-serif;
+}
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Truculenta:wght@300&display=swap" rel="stylesheet">
+<!--CSS rules to specify families-->
+
+
+.sitefont3 {   
+     font-family: 'Mohave', sans-serif;
+}
+
+.sitefont4 {
+    font-family: 'arial', sans-serif;
+    font-style: normal
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mohave:ital,wght@0,300;1,300&family=Truculenta:wght@300&display=swap" rel="stylesheet">
+<!--CSS rules to specify families-->
+
+ 
+.color3 {color: rgba(70, 34, 170, 0.94)
+    
+}
+
+.bg-faded2 {
+  background-color: rgba(239, 232, 140, 0.8);
+}
+
+.bg-faded3 {
+    background-color: rgba(29, 6, 93, 0.63);
+    }
+
+.cta2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(163, 163, 208, 0.47);
+}
+
+
+#mainNav2 .navbar-brand {
+    color: #576a09;
+}
+ 
+.box1{
+    padding: 100px;
+    margin: 75px; 
+    
+}
+
+.box2{
+    padding: 10px;
+    margin: 5px;  
+}
+
+box3{
+    padding:10px;
+    margin:50px;
+}
+
+
+ .section-heading2 .section-heading-lower2 {
+  display: center;
+  font-size: 3rem;
+  font-weight: 70;
+  font-family:'mohave', 'san-serif'; 
+}   
+
+.about-heading2 .about-heading-content2 {
+    margin-top: 10rem;
+    position: relative;
+    z-index: 1;
+  }
+    
+
+
+#vid{
+    padding: 50px 100px;
+   background-color: rgba(163, 163, 208, 0.47);
+   
+}
+
